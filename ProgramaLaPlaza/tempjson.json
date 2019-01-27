@@ -1,3 +1,7 @@
+//NOAA National Centers for Environmental information,
+//Climate at a Glance: Global Time Series,
+//published May 2018, retrieved on May 27, 2018 from http://www.ncdc.noaa.gov/cag/
+
 var tempAn = {
   "1880": "-0.12",
   "1881": "-0.07",
