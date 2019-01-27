@@ -6,6 +6,8 @@ There are two versions of the sketch here.  One with mouse interactivity and one
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
+
+
 OpenProcessing version (seen [here](https://www.openprocessing.org/sketch/553781))
 
 ![OpenProcessing Version](https://raw.githubusercontent.com/seem-less/Temperature-Anomaly-Visualization/master/openprocessing%20example.png)
