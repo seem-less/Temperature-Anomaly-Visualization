@@ -5,3 +5,5 @@ An interactive experience, visualizing temperature anomalies from 1880 to 2016. 
 There are two versions of the sketch here.  One with mouse interactivity and one made for [ProgramaLaPlaza's](http://programalaplaza.medialab-prado.es/#/home) public screen.
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+
+![ProgramaLaPlaza preview](https://raw.githubusercontent.com/seem-less/Temperature-Anomaly-Visualization/master/programaplaza.png)
