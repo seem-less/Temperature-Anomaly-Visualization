@@ -1,3 +1,12 @@
+//Made by Waseem Girach
+//waseem-g.com/portfolio
+//https://www.linkedin.com/in/waseemgirach/
+
+//NOAA National Centers for Environmental information, Climate at a Glance: Global Time Series,
+//published May 2018, data retrieved on May 27, 2018 from http://www.ncdc.noaa.gov/cag/
+
+//This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
+
 var tempAn;
 var list;
 var x;
